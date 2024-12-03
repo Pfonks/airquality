@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-binarytemp/* linguist-documentation=false
-binarytemp/* linguist-vendored
+* linguist-documentation=false
+* linguist-vendored
